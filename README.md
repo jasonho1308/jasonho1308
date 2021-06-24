@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Jason11ookJJ
-- 👀 I’m interested in playing
-- 🌱 I’m currently learning Python, android, java
+- 👋 Hi, I’m @Jason11ookJJ / Jason Ho
+- 🌱 I’m currently learning Python, android, java, html
 - 💞️ I’m looking to collaborate on the things I like
-- 📫 How to reach me discord: Jason Ho#0813
+- 📫 How to reach me
+  - Discord: Jason Ho#0813
+  - Mail 📧: jasonho1308@gmail.com
 
 <!---
 Jason11ookJJ/Jason11ookJJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
