@@ -1,3 +1,10 @@
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonho1308&count_private=true)
+Hi! I am a student studying Bioinfomatics at the Univeristy of Hong Kong. 
 
-Current studying, no time for code or update :(
+## Language 
+- python
+- R
+
+## Other info
+
+- Obsidian.md user 
+- Owner of a discord bot
