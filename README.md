@@ -1,4 +1,4 @@
-Hi! I am a student studying Bioinfomatics at the Univeristy of Hong Kong. 
+Hi! I am a student studying Bioinformatics at the University of Hong Kong. 
 
 ## Language 
 - python
